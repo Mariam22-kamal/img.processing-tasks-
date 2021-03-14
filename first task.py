@@ -1,4 +1,3 @@
-Convert an image to grayscale 
 import cv2
 
 # Reading color image as grayscale
